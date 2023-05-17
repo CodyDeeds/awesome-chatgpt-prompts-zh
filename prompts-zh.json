@@ -1,6 +1,62 @@
 [
-  {
-    "act": "test",
-    "prompt": "test  \n"
-  }
+{
+"title": "Board Comm.",
+"prompt": "How can I effectively communicate my concerns and suggestions to the condo HOA board in a constructive manner? \n"
+},
+{
+"title": "Volunteer Op.",
+"prompt": "What are some ways that I can volunteer my time and expertise to contribute to the improvement of the condominium community? \n"
+},
+{
+"title": "Community Act.",
+"prompt": "Can you suggest some community-building activities or events that we can organize to bring the condominium residents closer together? \n"
+},
+{
+"title": "Green Comm.",
+"prompt": "How can I collaborate with other residents to establish a 'green committee' that focuses on implementing eco-friendly practices within the condominium community? \n"
+},
+{
+"title": "Improve Look",
+"prompt": "What measures can I take to help the condo association preserve and improve the aesthetics of our building's exterior and common areas? \n"
+},
+{
+"title": "Neighborly Rel.",
+"prompt": "What are some best practices for maintaining good neighborly relations and promoting a harmonious environment within the condominium community? \n"
+},
+{
+"title": "Safety Support",
+"prompt": "In what ways can I support the condominium association's efforts to maintain safety and security in our community? \n"
+},
+{
+"title": "Newsletter",
+"prompt": "How can I participate in or initiate the creation of a condominium newsletter to keep residents informed about community news, updates, and events? \n"
+},
+{
+"title": "Inclusivity",
+"prompt": "What steps can be taken to promote inclusivity and diversity within the condominium community and its committees? \n"
+},
+{
+"title": "HOA Education",
+"prompt": "Can you suggest some resources or educational materials that can help residents to better understand the responsibilities and roles of HOA board members, condo committees, and community members? \n"
+},
+{
+"title": "New Resident",
+"prompt": "How can I work with other residents to establish a mentorship or support program for new residents moving into the condominium community? \n"
+},
+{
+"title": "Digital Comm.",
+"prompt": "What are the best practices for using social media or other digital communication platforms to foster collaboration and engagement among condominium residents and the HOA board? \n"
+},
+{
+"title": "Interest Groups",
+"prompt": "How can I propose and advocate for the formation of new interest groups or clubs within the condominium community? \n"
+},
+{
+"title": "Open Convers.",
+"prompt": "What are some ways to encourage and facilitate open, respectful conversations among residents and the HOA board on important community issues? \n"
+},
+{
+"title": "Community Serv.",
+"prompt": "How can I help to organize a community service or volunteer project that involves the condominium residents and benefits the local neighborhood or city? \n"
+}
 ]
